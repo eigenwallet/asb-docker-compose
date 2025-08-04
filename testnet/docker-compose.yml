@@ -64,7 +64,7 @@ services:
       - '--electrum-rpc-addr=0.0.0.0:${ELECTRS_PORT:?}'
       - '--log-filters=INFO'
   testnet_asb:
-    image: ghcr.io/unstoppableswap/asb:monero-sys-preview
+    image: ghcr.io/eigenwallet/asb:monero-sys-preview
     restart: unless-stopped
     container_name: testnet_asb
     depends_on:
