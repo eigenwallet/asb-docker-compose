@@ -2,7 +2,7 @@
 
 This project provides a Docker Compose setup for running an Automated Swap Backend (ASB) for XMR-BTC atomic swaps, along with its dependencies including Monero, Bitcoin Core, and Electrs.
 
-**🚧 Soon to be deprecated and replaced by the [`orchestrator`](https://github.com/eigenwallet/core/tree/master/swap-orchestrator) 🚧**
+**🚧 Deprecated and replaced by the [`orchestrator`](https://github.com/eigenwallet/core/tree/master/swap-orchestrator) 🚧**
 
 ## Overview
 
